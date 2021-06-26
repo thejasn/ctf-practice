@@ -1,0 +1,7 @@
+break /home/thejasn/picoctf/stonks/vuln_org.c:139
+break /home/thejasn/picoctf/stonks/vuln_org.c:89
+break /home/thejasn/picoctf/stonks/vuln_org.c:90
+break /home/thejasn/picoctf/stonks/vuln_org.c:91
+break /home/thejasn/picoctf/stonks/vuln_org.c:92
+break /home/thejasn/picoctf/stonks/vuln_org.c:93
+
